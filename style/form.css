@@ -1,0 +1,60 @@
+
+form {border: 3px solid #f1f1f1; 
+padding:20px ;
+width:700px;
+margin:5px 15%}
+
+input[type=text], input[type=password] {
+  width: 96%;
+  padding: 12px 20px;
+  margin: 8px 10px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 257px;
+  border: none;
+  cursor: pointer;
+  width: 20%;
+}
+
+
+.reset {
+  background-color: #FF6347;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 220px;
+  border: none;
+  cursor: pointer;
+  width: 20%;
+}
+
+.button:hover {
+  opacity: 0.8;
+}
+
+.reset:hover {
+  opacity: 0.8;
+}
+
+.container {
+	
+  padding: 100px;
+}
+.container2 
+{
+	
+  text-align:center;
+  padding: 20px;
+}
+.textform 
+{
+	
+  text-align:center;
+  
+}

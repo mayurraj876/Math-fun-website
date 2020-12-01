@@ -1,0 +1,60 @@
+
+.header {
+  padding: 50px; /* some padding */
+  text-align: center; /* center the text */
+  background: #1abc9c; /* green background */
+  color: white; /* white text color */
+  height:auto
+}
+
+/* Increase the font size of the <h1> element */
+.header h1 {
+  font-size: 60px;
+  font-family:cursive;
+}
+
+p.tagline {
+  font-family:cursive;
+  color: black;
+  font-style:italic;
+  font-size:20px;
+}
+
+.row1 {
+position:absolute;left:100px; top:0px;
+}
+
+.row2 {
+position:absolute;right:100px; top:0px;
+}
+
+.footer {
+  padding:10px; /* Some padding */
+  text-align:center; /* Center text*/
+  background: white; /* Black background */
+  color:black;
+}
+
+.footer1 {
+  top:500px;
+  padding:100px; /* Some padding */
+  text-align:center; /* Center text*/
+  background: black; /* Black background */
+  color:white;
+}
+
+.textalign
+{
+	
+  text-align:right;
+}
+.textaligna
+{
+  text-align:center;
+  
+}
+.pageheader{
+
+  text-align:center;	
+  
+}
